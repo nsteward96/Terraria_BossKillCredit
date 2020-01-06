@@ -1,0 +1,5 @@
+﻿author = Stalyn
+version = 1.0.0
+displayName = BossKillCredit
+side = Both
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*

@@ -1,0 +1,1 @@
+Displays a list of players who participated in the demise of a boss in Expert Mode. Created so that players can know for sure if they should have gotten an expert bonus bag.
